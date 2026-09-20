@@ -1,0 +1,23 @@
+{
+    "document_id": "INV-5B7D06C4120F",
+    "original_filename": "sample.pdf",
+    "stored_filename": "original.pdf",
+    "file_path": "data\\raw\\INV-5B7D06C4120F\\original.pdf",
+    "file_size_bytes": 206122,
+    "sha256": "b3126e82b49c027002285819d0bc1a68ac0fd29f1ba6a0e6439144ebad27fdc5",
+    "mime_type": "application/pdf",
+    "uploaded_at": "2026-08-16T19:19:26.958207Z",
+    "status": "TABLES_EXTRACTED",
+    "pdf": {
+        "page_count": 1,
+        "title": "مشروع حورس - ميكانيكا.xlsx",
+        "author": null,
+        "subject": null,
+        "keywords": null,
+        "creator": null,
+        "producer": "Microsoft: Print To PDF",
+        "creation_date": "2026-08-09T21:34:53+03:00",
+        "modification_date": "2026-08-09T21:34:53+03:00"
+    },
+    "table_count": 1
+}

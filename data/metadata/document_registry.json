@@ -1,0 +1,83 @@
+[
+    {
+        "document_id": "INV-5B7D06C4120F",
+        "original_filename": "sample.pdf",
+        "stored_filename": "original.pdf",
+        "file_path": "data\\raw\\INV-5B7D06C4120F\\original.pdf",
+        "file_size_bytes": 206122,
+        "sha256": "b3126e82b49c027002285819d0bc1a68ac0fd29f1ba6a0e6439144ebad27fdc5",
+        "mime_type": "application/pdf",
+        "uploaded_at": "2026-08-16T19:19:26.958207Z",
+        "status": "TABLES_EXTRACTED",
+        "pdf": {
+            "page_count": 1,
+            "title": "مشروع حورس - ميكانيكا.xlsx",
+            "author": null,
+            "subject": null,
+            "keywords": null,
+            "creator": null,
+            "producer": "Microsoft: Print To PDF",
+            "creation_date": "2026-08-09T21:34:53+03:00",
+            "modification_date": "2026-08-09T21:34:53+03:00"
+        },
+        "table_count": 1
+    },
+    {
+        "document_id": "INV-67FC81DB8CD4",
+        "filename": "",
+        "original_filename": "FLL.pdf",
+        "stored_filename": "original.pdf",
+        "file_path": "data\\raw\\INV-67FC81DB8CD4\\original.pdf",
+        "file_type": "application/pdf",
+        "file_size": null,
+        "page_count": 0,
+        "created_at": null,
+        "modified_at": null,
+        "source": null,
+        "sha256": "cdeeee6557a0d6c7523b5786959e16a894c803a30f91a9684ebaa0924d1b1cb2",
+        "mime_type": "application/pdf",
+        "uploaded_at": "2026-08-22T20:19:15.964640Z",
+        "status": "TABLES_EXTRACTED",
+        "pdf": {
+            "page_count": 4,
+            "title": null,
+            "author": "Ellen C. Gunderson",
+            "subject": null,
+            "keywords": null,
+            "creator": "Microsoft Word",
+            "producer": null,
+            "creation_date": "2025-10-07T06:52:51Z",
+            "modification_date": "2025-10-07T06:52:51Z"
+        },
+        "table_count": 4
+    },
+    {
+        "document_id": "INV-4BCEAEF05D59",
+        "filename": "",
+        "original_filename": "Gen AI- Navigate the Landscape- Google.pdf",
+        "stored_filename": "original.pdf",
+        "file_path": "data\\raw\\INV-4BCEAEF05D59\\original.pdf",
+        "file_type": "application/pdf",
+        "file_size": null,
+        "page_count": 0,
+        "created_at": null,
+        "modified_at": null,
+        "source": null,
+        "sha256": "809059c65917837af8bb04ce3f85d0d56729f119f53543e44c115f1c6bc8756e",
+        "mime_type": "application/pdf",
+        "uploaded_at": "2026-08-26T18:31:35.100954Z",
+        "status": "TABLES_EXTRACTED",
+        "pdf": {
+            "page_count": 1,
+            "title": null,
+            "author": null,
+            "subject": null,
+            "keywords": null,
+            "creator": "Chromium",
+            "producer": "Skia/PDF m79",
+            "creation_date": "2026-07-30T09:18:42Z",
+            "modification_date": "2026-07-30T09:18:42Z"
+        },
+        "table_count": 1
+    }
+]

@@ -1,0 +1,29 @@
+{
+    "document_id": "INV-4BCEAEF05D59",
+    "filename": "",
+    "original_filename": "Gen AI- Navigate the Landscape- Google.pdf",
+    "stored_filename": "original.pdf",
+    "file_path": "data\\raw\\INV-4BCEAEF05D59\\original.pdf",
+    "file_type": "application/pdf",
+    "file_size": null,
+    "page_count": 0,
+    "created_at": null,
+    "modified_at": null,
+    "source": null,
+    "sha256": "809059c65917837af8bb04ce3f85d0d56729f119f53543e44c115f1c6bc8756e",
+    "mime_type": "application/pdf",
+    "uploaded_at": "2026-08-26T18:31:35.100954Z",
+    "status": "TABLES_EXTRACTED",
+    "pdf": {
+        "page_count": 1,
+        "title": null,
+        "author": null,
+        "subject": null,
+        "keywords": null,
+        "creator": "Chromium",
+        "producer": "Skia/PDF m79",
+        "creation_date": "2026-07-30T09:18:42Z",
+        "modification_date": "2026-07-30T09:18:42Z"
+    },
+    "table_count": 1
+}

@@ -1,0 +1,29 @@
+{
+    "document_id": "INV-67FC81DB8CD4",
+    "filename": "",
+    "original_filename": "FLL.pdf",
+    "stored_filename": "original.pdf",
+    "file_path": "data\\raw\\INV-67FC81DB8CD4\\original.pdf",
+    "file_type": "application/pdf",
+    "file_size": null,
+    "page_count": 0,
+    "created_at": null,
+    "modified_at": null,
+    "source": null,
+    "sha256": "cdeeee6557a0d6c7523b5786959e16a894c803a30f91a9684ebaa0924d1b1cb2",
+    "mime_type": "application/pdf",
+    "uploaded_at": "2026-08-22T20:19:15.964640Z",
+    "status": "TABLES_EXTRACTED",
+    "pdf": {
+        "page_count": 4,
+        "title": null,
+        "author": "Ellen C. Gunderson",
+        "subject": null,
+        "keywords": null,
+        "creator": "Microsoft Word",
+        "producer": null,
+        "creation_date": "2025-10-07T06:52:51Z",
+        "modification_date": "2025-10-07T06:52:51Z"
+    },
+    "table_count": 4
+}
